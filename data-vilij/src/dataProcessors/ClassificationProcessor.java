@@ -14,7 +14,7 @@ import vilij.templates.ApplicationTemplate;
 import java.util.List;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class ClassificationProcessor extends Thread implements DataProcessor{
     private ClassificationAlgorithm classificationAlgorithm;
