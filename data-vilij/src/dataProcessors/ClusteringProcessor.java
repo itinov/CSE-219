@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class ClusteringProcessor extends Thread implements DataProcessor {
     ApplicationTemplate applicationTemplate;
