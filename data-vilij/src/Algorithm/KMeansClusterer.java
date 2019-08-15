@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * @author Ritwik Banerjee
+ * @author Ivan Tinov
  */
 public class KMeansClusterer extends ClusteringAlgorithm {
 
