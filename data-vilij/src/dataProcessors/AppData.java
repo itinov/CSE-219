@@ -16,7 +16,7 @@ import java.lang.reflect.Method;
 import java.nio.file.Path;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class AppData implements DataComponent {
 
