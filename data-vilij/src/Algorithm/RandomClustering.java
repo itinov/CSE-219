@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class RandomClustering extends ClusteringAlgorithm{
 
