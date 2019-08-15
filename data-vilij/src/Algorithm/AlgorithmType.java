@@ -1,7 +1,7 @@
 package Algorithm;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public interface AlgorithmType {
     void run();
