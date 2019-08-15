@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public interface DataProcessor{
     default void toChartData(Data InputData, XYChart<Number, Number> chart){
