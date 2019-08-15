@@ -21,7 +21,7 @@ import java.net.URL;
 import java.nio.file.Path;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class AppActions implements ActionComponent{
 
