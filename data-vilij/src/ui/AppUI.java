@@ -38,7 +38,7 @@ import java.util.Set;
 
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class AppUI extends UITemplate {
     private ApplicationTemplate applicationTemplate;
