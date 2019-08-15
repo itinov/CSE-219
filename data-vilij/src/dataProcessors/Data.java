@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class Data {
     private static class InvalidDataNameException extends Exception {
