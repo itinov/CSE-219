@@ -10,7 +10,7 @@ import static vilij.settings.InitializationParams.*;
 
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public final class DataVisualizer extends ApplicationTemplate {
 
