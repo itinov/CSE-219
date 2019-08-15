@@ -3,7 +3,7 @@ package Algorithm;
 import dataProcessors.Data;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public abstract class ClusteringAlgorithm implements AlgorithmType {
     public enum Clusters{
