@@ -6,7 +6,7 @@ package Algorithm;
 import java.util.List;
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public abstract class ClassificationAlgorithm implements AlgorithmType {
     enum classifer{
