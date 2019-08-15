@@ -3,7 +3,7 @@ package Algorithm;
 
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public class Configuration {
     public int MaxInterval, IterationInterval, NumberOfClustering;
