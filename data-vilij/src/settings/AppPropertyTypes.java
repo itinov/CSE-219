@@ -3,7 +3,7 @@ package settings;
 
 /**
  *
- * @author Weixin Tan
+ * @author Ivan Tinov
  */
 public enum AppPropertyTypes {
     /* path to the icons*/
